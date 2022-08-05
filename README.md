@@ -1,1 +1,1 @@
-# Scientific-Calculator-CPP
+# Scientific-Calculator-Using-C
